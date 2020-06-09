@@ -1,0 +1,19 @@
+/* add home page styles here */
+li{
+
+list-style: none;
+align-items: center;
+}
+
+ul{
+    border: palevioletred;
+    border-style: dotted;
+    border-width: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img{
+    height: 300px;
+    width: 400px;
+}
